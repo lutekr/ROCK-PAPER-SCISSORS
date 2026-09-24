@@ -1,6 +1,6 @@
 # ROCK-PAPER-SCISSORS
 
-A small rock paper scissors game that I built for fun in 2022, as part of The Odin Project (a free web development course). It was my first web project.
+A small rock paper scissors game that I built for fun in 2022, while learning web development on my own with The Odin Project (a free online course). It was my first web project.
 
 **Live demo:** https://lutekr.github.io/ROCK-PAPER-SCISSORS/ (works best on a desktop screen)
 
